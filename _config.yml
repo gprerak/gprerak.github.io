@@ -1,2 +1,3 @@
-	name: Prerak Joshi, Markit EDM Consultant
-	markdown: kramdown
+name: Prerak Joshi, Markit EDM Consultant
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
